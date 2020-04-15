@@ -8,8 +8,9 @@ header{
 }
 
 main {
+    width: 70%;
     top: 87px;
-    width: 69%;
+    bottom: 0;
 }
 
 aside {
