@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+main {
+    width: 80vh;
+}
+
+aside {
+    width: 20vh;
+}
+
